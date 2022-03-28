@@ -1,5 +1,5 @@
 # Algorithms
 
-Simple list algorithms 
+Simple array algorithms 
 
 ## For practice 
