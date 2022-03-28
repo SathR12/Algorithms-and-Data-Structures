@@ -1,7 +1,8 @@
 public class SelectionSort {
     public static void main(String[] args) {
         int[] sort_arr = {4, 1, 25, 0, 123, 0, 4};
-        System.out.println("Selection sort: " + output(selectionSort(sort_arr)));
+        //output method in this repo
+        System.out.println(selectionSort(sort_arr));
     }
 
     static int[] selectionSort(int[] arr) {
