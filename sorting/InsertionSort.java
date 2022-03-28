@@ -1,7 +1,8 @@
 public class InsertionSort {
     public static void main(String[] args) {
         int[] sort_arr = {4, 1, 25, 0, 123, 0, 4};
-        System.out.println("Insertion sort: " + output(insertionSort(sort_arr)));
+        //output method in this repo
+        System.out.println(insertionSort(sort_arr));
     }
 
     static int[] insertionSort(int[] arr) {
