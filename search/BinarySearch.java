@@ -20,7 +20,7 @@ public class BinarySearch {
             }
         }
 
-        return ele;
+        return mid;
     }
 
 }
