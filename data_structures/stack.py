@@ -11,6 +11,9 @@ class Stack:
     def getLength(self):
         return len(self.array)
     
+    def isEmpty(self):
+        return len(self.array) == 0
+    
     def __str__(self):
         return str(self.array)
 
